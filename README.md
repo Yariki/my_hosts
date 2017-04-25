@@ -1,2 +1,2 @@
 # My "hosts" file for Windows
-Unified hosts with bloked fakenews, gambling, porn, social and some ukrainian popular sites.
+Unified hosts with bloked fakenews, gambling, porn, social and some ukrainian popular sites (mostly for work :D ).
